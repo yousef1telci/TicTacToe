@@ -1,0 +1,13 @@
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frmMain.resources
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frmFour.resources
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frmSeven.resources
+C:\Users\ywsef\source\C#Forms\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frmthree.resources
